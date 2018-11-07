@@ -1,2 +1,2 @@
 # the-bulb
-Simple bylb animation
+Simple bulb animation
